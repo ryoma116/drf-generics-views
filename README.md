@@ -1,0 +1,1 @@
+# drf-generics-views
